@@ -1,0 +1,35 @@
+{
+  "formatVersion": 1,
+  "order": [
+    "hero",
+    "manifesto",
+    "hours",
+    "location",
+    "menu",
+    "gallery"
+  ],
+  "sections": {
+    "manifesto": {
+      "allowed": [
+        "manifesto-original",
+        "about-image-text"
+      ],
+      "optionsByComponent": {
+        "about-image-text": {},
+        "manifesto-original": {}
+      },
+      "selected": "manifesto-original"
+    },
+    "menu": {
+      "allowed": [
+        "menu-original",
+        "menu-highlight"
+      ],
+      "optionsByComponent": {
+        "menu-highlight": {},
+        "menu-original": {}
+      },
+      "selected": "menu-original"
+    }
+  }
+}

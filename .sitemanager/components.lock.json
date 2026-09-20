@@ -1,0 +1,25 @@
+{
+  "components": [
+    {
+      "definition": "components/manifesto/manifesto-original/component.json",
+      "id": "manifesto-original",
+      "version": "1.0.0"
+    },
+    {
+      "definition": "components/manifesto/about-image-text/component.json",
+      "id": "about-image-text",
+      "version": "1.0.0"
+    },
+    {
+      "definition": "components/menu/menu-original/component.json",
+      "id": "menu-original",
+      "version": "1.0.0"
+    },
+    {
+      "definition": "components/menu/menu-highlight/component.json",
+      "id": "menu-highlight",
+      "version": "1.0.0"
+    }
+  ],
+  "formatVersion": 1
+}

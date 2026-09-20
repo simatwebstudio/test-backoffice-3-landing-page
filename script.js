@@ -2,15 +2,60 @@ const ROME_TIMEZONE = "Europe/Rome";
 const INSTAGRAM_POPUP_DELAY = 1500;
 
 const OPENING_SCHEDULE = [
-  { day: 2, label: "Martedì", open: "12:00", close: "16:00" },
-  { day: 3, label: "Mercoledì", open: "12:00", close: "16:00" },
-  { day: 4, label: "Giovedì", open: "12:00", close: "16:00" },
-  { day: 4, label: "Giovedì", open: "18:00", close: "23:00" },
-  { day: 5, label: "Venerdì", open: "12:00", close: "16:00" },
-  { day: 5, label: "Venerdì", open: "18:00", close: "23:00" },
-  { day: 6, label: "Sabato", open: "12:00", close: "16:00" },
-  { day: 6, label: "Sabato", open: "18:00", close: "23:00" },
-  { day: 0, label: "Domenica", open: "18:00", close: "23:00" }
+  {
+    "day": 0,
+    "label": "Domenica",
+    "open": "18:00",
+    "close": "23:00"
+  },
+  {
+    "day": 2,
+    "label": "Martedì",
+    "open": "12:00",
+    "close": "16:00"
+  },
+  {
+    "day": 3,
+    "label": "Mercoledì",
+    "open": "12:00",
+    "close": "16:00"
+  },
+  {
+    "day": 4,
+    "label": "Giovedì",
+    "open": "12:00",
+    "close": "16:00"
+  },
+  {
+    "day": 4,
+    "label": "Giovedì",
+    "open": "18:00",
+    "close": "23:00"
+  },
+  {
+    "day": 5,
+    "label": "Venerdì",
+    "open": "12:00",
+    "close": "16:00"
+  },
+  {
+    "day": 5,
+    "label": "Venerdì",
+    "open": "18:00",
+    "close": "23:00"
+  },
+  {
+    "day": 6,
+    "label": "Sabato",
+    "open": "12:00",
+    "close": "16:00"
+  },
+  {
+    "day": 6,
+    "label": "Sabato",
+    "open": "18:00",
+    "close": "23:00"
+  }
 ];
 
 const WEEKDAY_MAP = {

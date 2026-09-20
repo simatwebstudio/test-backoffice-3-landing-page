@@ -3,10 +3,10 @@
   "order": [
     "hero",
     "manifesto",
-    "hours",
-    "location",
     "menu",
-    "gallery"
+    "gallery",
+    "hours",
+    "location"
   ],
   "sections": {
     "manifesto": {

@@ -3,8 +3,8 @@
   "order": [
     "hero",
     "manifesto",
-    "gallery",
     "menu",
+    "gallery",
     "hours",
     "location"
   ],
@@ -18,7 +18,7 @@
         "about-image-text": {},
         "manifesto-original": {}
       },
-      "selected": "about-image-text"
+      "selected": "manifesto-original"
     },
     "menu": {
       "allowed": [

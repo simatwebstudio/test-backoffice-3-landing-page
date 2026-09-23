@@ -12,7 +12,7 @@ const OPENING_SCHEDULE = [
     "day": 3,
     "label": "Mercoledì",
     "open": "12:00",
-    "close": "15:00"
+    "close": "16:00"
   },
   {
     "day": 4,

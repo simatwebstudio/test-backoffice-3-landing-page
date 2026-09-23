@@ -37,7 +37,7 @@
   "gallery": {
     "eyebrow": "Dentro Mano",
     "image01Alt": "Bancone rosso e vetrina delle pizze di Mano Pizza",
-    "image01Src": "assets/bancone-mano-pizza.webp",
+    "image01Src": "assets/foto-prova-2.webp",
     "image02Alt": "Tranci di pizza bianca con cipolle sul banco",
     "image02Src": "assets/pizza-bianca-cipolle.webp",
     "noteLabel": "Pizza da asporto",
@@ -70,11 +70,11 @@
     "thursdayDinner": "18:00-23:00",
     "thursdayLabel": "Giovedì",
     "thursdayLunch": "12:00-16:00",
-    "title": "A pranzo dal martedì, a cena dal giovedì.",
+    "title": "A pranzo dal martedì, a cena dal giovedì. [offline]",
     "tuesdayLabel": "Martedì",
     "tuesdayLunch": "Chiuso",
     "wednesdayLabel": "Mercoledì",
-    "wednesdayLunch": "12:00-16:00"
+    "wednesdayLunch": "12:00-15:00"
   },
   "location": {
     "addressLine1": "P.za XX Settembre, 9",
@@ -161,7 +161,9 @@
     "image": "assets/pizza-del-giorno.png",
     "title": "PIZZA DEL GIORNO?"
   },
-  "removedBlocks": {},
+  "removedBlocks": {
+    "hours_sundayLabel": false
+  },
   "seo": {
     "canonicalUrl": "https://manopizza.it/",
     "description": "Mano Pizza a Bra: pizza al taglio da asporto, menu diretto, tranci legali e criminali in Piazza XX Settembre.",

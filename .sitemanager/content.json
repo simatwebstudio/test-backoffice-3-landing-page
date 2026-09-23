@@ -37,7 +37,7 @@
   "gallery": {
     "eyebrow": "Dentro Mano",
     "image01Alt": "Bancone rosso e vetrina delle pizze di Mano Pizza",
-    "image01Src": "assets/bancone-mano-pizza.webp",
+    "image01Src": "assets/foto-b.webp",
     "image02Alt": "Tranci di pizza bianca con cipolle sul banco",
     "image02Src": "assets/pizza-bianca-cipolle.webp",
     "noteLabel": "Pizza da asporto",
@@ -98,7 +98,7 @@
     "boardService": "PRANZO & CENA",
     "eyebrow": "Pizza Criminale",
     "image01Alt": "Trancio di pizza al taglio servito al banco di Mano Pizza",
-    "image01Src": "assets/trancio-criminale.webp",
+    "image01Src": "assets/foto-b-2.webp",
     "image02Alt": "Pizza con patate, olive e rosmarino tagliata a spicchi",
     "image02Src": "assets/pizza-patate-olive.webp",
     "item01Description": "Pomodoro, aglio confit, origano",
